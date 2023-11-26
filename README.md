@@ -5,6 +5,12 @@ Hey there! 👋 I'm Dan!
 
 - Recreating childhood games like Pokémon Emerald 🕹️
 - Crafting UI for MongoDB Atlas on Android 📱
+
+🔭 Currently Learning:
+
+- Rails for full-stack web development 🚀
+- Node.js for server-side applications 🌐
+- React.js for building interactive user interfaces 💻
   
 🔭 I'm Interested In:
 
