@@ -16,7 +16,6 @@ Hey there! 👋 I'm Dan!
 
 - Exploring game development 🎮
 - Mastering Android and Web development 💻
-- Collaborating on cool projects and learning new technologies! 🚀
   
 🎨 When I'm Not Coding:
 
