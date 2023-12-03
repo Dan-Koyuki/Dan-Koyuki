@@ -3,12 +3,11 @@ Hey there! 👋 I'm Dan!
 
 👨‍💻 Currently working on:
 
-- Recreating childhood games like Pokémon Emerald 🕹️
+- Recreating a Pokemon Battle Simulator like Pokemon Showdown 🕹️
 - Crafting UI for MongoDB Atlas on Android 📱
 
 🔭 Currently Learning:
 
-- Rails for full-stack web development 🚀
 - Node.js for server-side applications 🌐
 - React.js for building interactive user interfaces 💻
   
