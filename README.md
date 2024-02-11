@@ -3,8 +3,8 @@ Hey there! 👋 I'm Dan!
 
 👨‍💻 Currently working on:
 
-- Recreating a Pokemon Battle Simulator like Pokemon Showdown 🕹️
-- Crafting UI for MongoDB Atlas on Android 📱
+- Dicoding DBS Foundation - Front-End
+- Pokemon Data NPM Library
 
 🔭 Currently Learning:
 
@@ -21,6 +21,8 @@ Hey there! 👋 I'm Dan!
 - Drawing artworks 🖌️
 - Listening to music 🎶
 - Watching Tokusatsu or Anime 📺
+
+More at: [Dan-Koyuki](dan-koyuki-profile.vercel.app)
 
 <!---
 Dan-Koyuki/Dan-Koyuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
