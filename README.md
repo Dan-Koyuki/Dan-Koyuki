@@ -22,7 +22,7 @@ Hey there! 👋 I'm Dan!
 - Listening to music 🎶
 - Watching Tokusatsu or Anime 📺
 
-More at: [Dan-Koyuki](dan-koyuki-profile.vercel.app)
+More at: [Dan-Koyuki](https://dan-koyuki-profile.vercel.app)
 
 <!---
 Dan-Koyuki/Dan-Koyuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
