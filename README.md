@@ -1,24 +1,41 @@
 Hey there! 👋 I'm Dan!
 🎓 Informatic Engineering Student | 🌟 Aspiring Android and Web Developer | 🎨 Hobbyist Artist
 
-👨‍💻 Currently working on:
+# 👨‍💻 Currently working on:
 
 - Dicoding DBS Foundation - Front-End
+- AWS Back-End Academy 2024
 - Pokemon Data NPM Library
 
-🔭 Currently Learning:
-
-- Node.js for server-side applications 🌐
-- React.js for building interactive user interfaces 💻
+# 📊 Github Stat
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img height="180em"
+          src="https://github-readme-stats.vercel.app/api?username=Dan-Koyuki&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img height="180em"
+          src="https://streak-stats.demolab.com/?user=Dan-Koyuki&theme=tokyonight"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img height="180em"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Dan-Koyuki&layout=compact&theme=tokyonight"
+        />
+      </td>
+    </tr>
+  </thead>
+</table>
   
-🔭 I'm Interested In:
-
-- Exploring game development 🎮
-- Mastering Android and Web development 💻
-  
-🎨 When I'm Not Coding:
+# 🎨 When I'm Not Coding:
 
 - Drawing artworks 🖌️
+- Random Project
 - Listening to music 🎶
 - Watching Tokusatsu or Anime 📺
 
