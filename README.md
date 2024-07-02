@@ -3,12 +3,6 @@ Hey there! 👋 I'm Dan!
 
 <img src="https://komarev.com/ghpvc/?username=dan-koyuki&label=Profile%20views&color=0e75b6&style=flat" alt="dan-koyuki" />
 
-# 👨‍💻 Currently working on:
-
-- Dicoding DBS Foundation - Front-End
-- AWS Back-End Academy 2024
-- Pokemon Data NPM Library
-
 # 📊 Github Stat
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
