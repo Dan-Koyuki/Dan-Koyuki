@@ -1,8 +1,6 @@
 Hey there! 👋 I'm Dan!
 🎓 Informatic Engineering Student | 🌟 Aspiring Android and Web Developer | 🎨 Hobbyist Artist 
 
-<img src="https://komarev.com/ghpvc/?username=dan-koyuki&label=Profile%20views&color=0e75b6&style=flat" alt="dan-koyuki" />
-
 # 📊 Github Stat
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
